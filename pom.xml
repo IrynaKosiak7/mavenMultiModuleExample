@@ -11,7 +11,7 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>WebApp</module>
-    <module>DekstopApp</module>
+    <module>DesktopApp</module>
     <module>SharedLibrary</module>
   </modules>
 
