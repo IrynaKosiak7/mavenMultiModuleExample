@@ -1,4 +1,5 @@
-import org.example.DesktopApp;
+package org.example;
+
 import org.junit.Test;
 
 public class DesktopAppTest {
